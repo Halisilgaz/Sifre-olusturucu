@@ -1,6 +1,5 @@
 
 # Sifre-olusturucu
-main.py
 import random
 
 karakterler = "+-/*!23456789&$#?=@<>abcdefghijklnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890"
